@@ -8,7 +8,7 @@ Fry counting is an essential task in aquaculture that provides valuable informat
 * The proposed dynamic fry counting model has a simple structure with fewer parameters. As a result, the computing speed on CPU and GPU can reach 5-10fps and 15-35fps, respectively, which has a real-time performance and lays the foundation for practical use.
 
 ## Updates
-* [2023-02-25] We have updated the count results for Dynamic Fry Count
+* [2023-02-25] We have updated the count results for dynamic fry counting
 ---
 ## Counting Result Samples
 ![image](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/images/all.png)
