@@ -1,2 +1,6 @@
-# Dynamic-fry-counting
-#Only the test video for dynamic fry counting is available at the moment, the code will be uploaded later
+# Dynamic fry counting based on multi-object tracking and one-stage detection
+## Updates
+---
+* [2023-02-25] We have updated the count results for Dynamic Fry Count
+---
+## Counting Result Samples
