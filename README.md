@@ -11,7 +11,8 @@ Fry counting is an essential task in aquaculture that provides valuable informat
 * [2023-02-25] We have updated the count results for dynamic fry counting
 ---
 ## Counting Result Samples
-![image](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/images/all.png)
----
+
 For video examples please download and watch：[video link](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/videos/counting.mp4)
 ---
+![image](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/images/all.png)
+
