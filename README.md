@@ -1,7 +1,7 @@
 # Dynamic fry counting based on multi-object tracking and one-stage detection
 ## Counting Result Samples
 
-### For video examples please download and watch：[video link](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/videos/counting.mp4)
+### For video examples：[video link](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/videos/counting.mp4)
 ![image](https://github.com/hanyuyaa/Dynamic-fry-counting/blob/master/Samples/videos/video.gif)
 ---
 ## Abstract
